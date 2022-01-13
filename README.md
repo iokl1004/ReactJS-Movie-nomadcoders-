@@ -11,12 +11,21 @@ Edit : VS Code
 2022.01.13(목) 15/100 완료
 
 1.1 무료강의(소개)
+
 1.2 Why React
+
 1.3 Requirements
+
 2.0 Introduction
+
 2.1 Before React
+
 2.2 Our First React Element
+
 2.3 Events in React
+
 2.4 Recap
+
 2.5 JSX
+
 2.6 JSX part Two
