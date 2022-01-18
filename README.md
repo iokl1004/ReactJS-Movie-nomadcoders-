@@ -31,3 +31,18 @@ Edit : VS Code
 2.5 JSX
 
 2.6 JSX part Two
+
+------------------------------------------------------------------------------------------------------------------------------------
+2022.01.17(월) 22/100 완료
+
+3.0 Understanding State
+
+3.1 setState part One
+
+3.2 setState part Two
+
+3.3 Recap
+
+3.4 State Functions
+
+3.5 Inputs and State
