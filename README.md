@@ -46,3 +46,26 @@ Edit : VS Code
 3.4 State Functions
 
 3.5 Inputs and State
+
+------------------------------------------------------------------------------------------------------------------------------------
+2022.01.18(화) 36/100 완료
+
+3.6 State Practice part One
+
+3.7 State Practice part Two
+
+3.8 Recap
+
+3.9 Final Practice and Recap
+
+4.0 Props
+
+4.1 Memo
+
+4.2 Prop Types
+
+4.3 Recap
+
+5.0 Introduction
+
+5.1 Tour of CRA
