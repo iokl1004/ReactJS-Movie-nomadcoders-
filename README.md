@@ -69,3 +69,24 @@ Edit : VS Code
 5.0 Introduction
 
 5.1 Tour of CRA
+
+------------------------------------------------------------------------------------------------------------------------------------
+2022.01.19(수) 48/100 완료
+
+6.0 Introduction
+
+6.1 useEffect
+
+6.2 Deps
+
+6.3 Recap
+
+6.4 Cleanup
+
+7.0 To Do List Part One
+
+7.1 To Do List Part Two
+
+7.2 Coin Tracker
+
+7.3 Movie App part one
