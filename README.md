@@ -90,3 +90,20 @@ Edit : VS Code
 7.2 Coin Tracker
 
 7.3 Movie App part one
+
+------------------------------------------------------------------------------------------------------------------------------------
+2022.01.20(목) 58/100 완료
+
+7.4 Movie App part Two
+
+7.5 React Router
+
+7.6 Parameters
+
+7.7 Publishing
+
+7.8 Conclusions
+
+7.9 Styles
+
+7.10 Next Steps
